@@ -1,0 +1,16 @@
+{
+  "name": "javascript-template",
+  "version": "0.0.0",
+  "description": "JavaScript Template",
+  "engines": {
+    "node": ">= 16.13"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon"
+  },
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
